@@ -1,0 +1,3 @@
+[submodule "CVE-2022-3602/openssl"]
+	path = CVE-2022-3602/openssl
+	url = git://git.openssl.org/openssl.git
