@@ -1,0 +1,8 @@
+# Ignore executables.
+harness
+confirm-vulnerability
+# Ignore the output file, which will have a lot of test cases.
+output/
+# VS Code stuff.
+.vscode/
+.gdb_history
