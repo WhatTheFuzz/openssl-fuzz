@@ -23,7 +23,7 @@ of the `docker run` line.
 
 ## Getting a Vulnerable Version
 
-The last commit that includes the vulnerability is commit SHA 3b421ebc64c7b52f1b9feb3812bdc7781c784332 from November 1st, 2022. It was fixed in commit SHA 680e65b94c916af259bfdc2e25f1ab6e0c7a97d6. We can get the vulnerable version easily with `git`:
+The last commit that includes the vulnerability is commit SHA `3b421ebc64c7b52f1b9feb3812bdc7781c784332` from November 1st, 2022. It was fixed in commit SHA `680e65b94c916af259bfdc2e25f1ab6e0c7a97d6`. We can get the vulnerable version easily with `git`:
 
 ```shell
 # Clone the repository.
